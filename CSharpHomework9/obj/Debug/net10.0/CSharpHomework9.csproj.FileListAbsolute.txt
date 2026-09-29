@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\bin\Debug\net10.0\CSharpHomework9.exe
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\bin\Debug\net10.0\CSharpHomework9.deps.json
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\bin\Debug\net10.0\CSharpHomework9.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\bin\Debug\net10.0\CSharpHomework9.dll
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\bin\Debug\net10.0\CSharpHomework9.pdb
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\obj\Debug\net10.0\CSharpHomework9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\obj\Debug\net10.0\CSharpHomework9.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\obj\Debug\net10.0\CSharpHomework9.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\obj\Debug\net10.0\CSharpHomework9.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\obj\Debug\net10.0\CSharpHomework9.dll
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\obj\Debug\net10.0\refint\CSharpHomework9.dll
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\obj\Debug\net10.0\CSharpHomework9.pdb
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\obj\Debug\net10.0\CSharpHomework9.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\obj\Debug\net10.0\ref\CSharpHomework9.dll
+C:\Users\User\OneDrive\Desktop\CSharpHomework9\CSharpHomework9\obj\Debug\net10.0\CSharpHomework9.sourcelink.json
